@@ -43,3 +43,9 @@ Se instalan las librerías que se van a ocupar en el proyecto.
 ````shell
 pip install web.py
 ````
+
+git add .
+
+git commit -m "CREATED configuración del ambiente de trabajo"
+
+git push -u origin main
